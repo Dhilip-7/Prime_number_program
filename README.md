@@ -1,4 +1,4 @@
-# 🔢 Prime Sieve
+# 🔢 Prime Number Finder 
 
 A fast, no-nonsense Python script to find all prime numbers up to `n` using the **Sieve of Eratosthenes**.
 
